@@ -1,6 +1,8 @@
 # Steam price notifier
 Notifies you of price changes (and discounts) to Steam store products in your wishlist and follow list
 
+[Article for this project](https://asbra.net/steam-price-tracker/) (link to my blog)
+
 ## Installation
 * Edit [steam-discount-check.py](steam-discount-check.py) set up `config` variables
 * Give write permission, script writes to `_log.txt` and `wishlist.json` in script folder
