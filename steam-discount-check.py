@@ -20,8 +20,8 @@ config = {
     'region': 'th',
     'steamid': 'novoc',
     'currency': '฿',
-    'mail_from': 'steam@asbra.net',
-    'mail_to': 'johan@asbra.net',
+    'mail_from': '',
+    'mail_to': '',
 }
 
 
